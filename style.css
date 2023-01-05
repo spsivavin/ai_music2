@@ -1,0 +1,17 @@
+body
+{
+background-size: cover;
+}
+
+.heading
+{
+font-size: 23px;
+margin: 0px;
+box-shadow:5px 5px 5px red;
+padding: 20px;
+}
+
+#song
+{
+font-size: 20px;
+}
